@@ -1,6 +1,6 @@
 # Auto-DB
-AI-Based Database Query Generator
-Just select the type of Database and Query you want.
+AI-Based Database Query Generator<br/>   
+Just select the type of Database and Query you want.<br/>
 To run this project
 1. Git clone
 2. npm start
